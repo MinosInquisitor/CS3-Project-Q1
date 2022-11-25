@@ -68,20 +68,15 @@
 	</style>
 </head>
 <body>
+	
+	<header>
 	<h1 class='grayBG'>Chess Basics</h1>
 	<hr>
-
-        <div id="board1" style="width: 400px"></div>
-        <script>
-var config = {
-  draggable: true,
-  dropOffBoard: 'snapback',
-  position: 'rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6'
-}
-var board = Chessboard('board1', config)
-        </script>
+	</header>
 	
+	<img src="images/chessgif.gif" width="400">
 	
+    <section>
     <div class="pieces">
   	<h3>Meet the Pieces</h3>
    	<a href="files/Pawn.html"><img src="images/Pawn.png" width="20" height="30"  alt="Pawn" ALIGN=”left” > The Pawn</a>
@@ -126,6 +121,7 @@ var board = Chessboard('board1', config)
 	<a href="files/Tactical_Puzzles.html"><img src="images/Tactical_Puzzles.png" width="40" height="30"  alt="Tactical Puzzles" ALIGN=”left” > Tactical Puzzles </a>	
 	<p> </p> 
     </div>
+	</section>
 
 <!--Planning to add a feature where you can play against the AI/random move, idk how to implement the legal move system ive tried to but idk how javascript works so, will do subpages also its unpolished-->
     
