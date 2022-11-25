@@ -1,0 +1,56 @@
+	 body {
+			background-color: lightgray;
+  
+		 }
+
+		 h1 {
+			color:white;
+            		text-align: center;
+ 		 }
+         
+		 h2, p{
+			color:black;
+			text-align: left;
+ 		 }
+
+		 
+		 .grayBG {
+			background-color:gray;
+		 }
+        
+        
+	.pieces {
+  		position: fixed;
+		top:80px;
+  		right: 400px;
+  		width: 200px;
+        border: 2px solid #73AD21;
+  		padding: 1px;
+		}
+
+	.rules {
+  		position: fixed;
+        top: 80px;
+  		right: 150px;
+  		width: 200px;
+        border: 2px solid #73AD21;
+  		padding: 1px;
+		}
+
+	.fundamentals {
+  		position: fixed;
+        	top: 300px;
+  		right: 400px;
+  		width: 200px;
+        border: 2px solid #73AD21;
+  		padding: 1px;
+		}   
+
+	.puzzles {
+  		position: fixed;
+        	top: 380px;
+  		right: 150px;
+  		width: 200px;
+        border: 2px solid #73AD21;
+  		padding: 1px;
+		} 
