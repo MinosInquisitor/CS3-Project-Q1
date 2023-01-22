@@ -54,7 +54,10 @@
         border: 2px solid #73AD21;
   		padding: 1px;
 		} 
-
+.linkss {
+	top: 500px;
+ right: 500px;
+}
 .linkss:hover {
 	opacity: 0.5;
 }
