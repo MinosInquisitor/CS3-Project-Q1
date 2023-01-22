@@ -55,8 +55,7 @@
   		padding: 1px;
 		} 
 .linkss {
-	top: 500px;
- right: 500px;
+	top: -500px;
 	  position: relative;
 }
 .linkss:hover {
