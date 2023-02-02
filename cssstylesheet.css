@@ -21,7 +21,7 @@
         
 	.pieces {
   		position: fixed;
-		top:80px;
+		top:450px;
   		right: 150px;
   		width: 200px;
         border: 2px solid #73AD21;
@@ -30,7 +30,7 @@
 
 	.rules {
   		position: fixed;
-        top: 80px;
+        top: 600px;
   		right: 150px;
   		width: 200px;
         border: 2px solid #73AD21;
@@ -60,7 +60,6 @@
 }
 .linkss1 {
 position: fixed;
-right:50px;
 }
 .linkss1:hover {
 	opacity: 0.5;
@@ -69,5 +68,5 @@ right:50px;
 	opacity: 0.5;
 }
 .transform:hover {
-transform: scale(1,0.5);
+transform: scale(1,0.95);
 }
