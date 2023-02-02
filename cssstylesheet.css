@@ -65,5 +65,5 @@
 	opacity: 0.5;
 }
 .transform:hover {
-transform: scale(0.5);
+transform: scale(1,0.5);
 }
