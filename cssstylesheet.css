@@ -64,3 +64,6 @@
 .linkss2:hover {
 	opacity: 0.5;
 }
+.transform:hover {
+transform: scale(0.5);
+}
