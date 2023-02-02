@@ -22,7 +22,7 @@
 	.pieces {
   		position: fixed;
 		top:80px;
-  		right: 400px;
+  		right: 150px;
   		width: 200px;
         border: 2px solid #73AD21;
   		padding: 1px;
@@ -40,7 +40,7 @@
 	.fundamentals {
   		position: fixed;
         	top: 300px;
-  		right: 400px;
+  		right: 150px;
   		width: 200px;
         border: 2px solid #73AD21;
   		padding: 1px;
@@ -57,6 +57,10 @@
 
 .linkss:hover {
 	opacity: 0.5;
+}
+.linkss1 {
+position: fixed;
+right:50px;
 }
 .linkss1:hover {
 	opacity: 0.5;
